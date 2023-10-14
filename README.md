@@ -2,12 +2,13 @@
 
 This was a team project. The team consisted of members from different countries ( Egypt & India ).
 
+
 This model is to predict if borrowers in an online peer-to-peer (P2P) lending platform will pay back their loans on time and with lower interest rates. 
 We looked at factors related to the borrower, the loan, and their social profile to see how they affect loan performance. 
 By analyzing this data, we can suggest ways for borrowers and lenders to increase their chances of successful lending and repayment.
 
 
-This is an unsupervised model used to predict : 
+# This is an unsupervised model used to predict : 
 
 1- Binary Classification model : Whether the borrower will repay the loan or not. 
 2- Multi-regressor model : 
