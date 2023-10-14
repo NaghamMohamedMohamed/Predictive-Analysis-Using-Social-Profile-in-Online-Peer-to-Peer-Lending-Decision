@@ -1,4 +1,5 @@
 # Predictive-Analysis-Using-Social-Profile-in-Online-Peer-to-Peer-Lending-Decision
+
 This was a team project. The team consisted of members from different countries ( Egypt & India ).
 
 This model is to predict if borrowers in an online peer-to-peer (P2P) lending platform will pay back their loans on time and with lower interest rates. 
@@ -7,6 +8,7 @@ By analyzing this data, we can suggest ways for borrowers and lenders to increas
 
 
 This is an unsupervised model used to predict : 
+
 1- Binary Classification model : Whether the borrower will repay the loan or not. 
 2- Multi-regressor model : 
    - preferred EMI : Represents the ideal or desired amount that an individual or borrower would like to pay as their monthly installment towards a loan.
