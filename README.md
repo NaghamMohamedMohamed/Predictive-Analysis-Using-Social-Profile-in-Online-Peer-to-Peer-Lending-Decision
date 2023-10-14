@@ -11,6 +11,7 @@ By analyzing this data, we can suggest ways for borrowers and lenders to increas
 # This is an unsupervised model used to predict : 
 
 1- Binary Classification model : Whether the borrower will repay the loan or not. 
+
 2- Multi-regressor model : 
    - preferred EMI : Represents the ideal or desired amount that an individual or borrower would like to pay as their monthly installment towards a loan.
    - preferred ROI : Represents the expected or desired rate of return on an investment.
